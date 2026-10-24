@@ -2,8 +2,8 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
+  base: '/CSI-crazzyyyy/',
   plugins: [react()],
-  base: '/CSI-dragon/',
   build: {
     target: 'es2020',
     rollupOptions: {
