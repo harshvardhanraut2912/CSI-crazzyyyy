@@ -1,0 +1,4 @@
+Copy these files over your project (same paths).
+DELETE these two files from your project:
+  src/components/WarpStreaks.jsx
+  src/components/ParticleField.jsx
